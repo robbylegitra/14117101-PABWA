@@ -1,0 +1,13 @@
+1.4 :
+1. Sudah dibuat file form_itera.html
+2. Sudah dicopy kan setiap code pada modul
+3. Pada meta data disisipkan refresh setiap 0 detik sekali
+
+1.5 :
+1. Sudah dilakukan perubahan
+2. Halaman akan melakukan refresh 5 detik sekali
+3.  - thead : digunakan untuk menggabungkan (grouping) konten header pada sebuah tabel
+    - tbody :digunakan untuk menggabungkan (grouping) konten body pada sebuah table
+    - tr    : digunakan untuk membuat baris baru pada table
+    - th    : digunakan untuk membuat cell header pada baris (row) tertentu dalam tabel
+    - td    : digunakan utnuk membuat cell body pada baris (row) tertentu dalam tabel
